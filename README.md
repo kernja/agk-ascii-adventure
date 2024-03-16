@@ -1,4 +1,4 @@
-# WATER
+# ASCII Adventure: The Caves of ISNA
 
 Written in App Game Kit Classic (v1.7), ASCII Adventure: The Caves of ISNA was inspired by the [Korz series](https://en.wikipedia.org/wiki/Kroz) and released for iOS, Android, and Windows in 2012. It features 50+ levels of [roguelike/dungeon-crawler](https://en.wikipedia.org/wiki/Roguelike) gameplay. This respository contains source code for the Windows release, with keyboard-optimized gameplay.
 
