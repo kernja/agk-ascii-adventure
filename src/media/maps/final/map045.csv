@@ -1,0 +1,482 @@
+3cb2ab15-5cf4-416b-a321-9015913e3352
+ 88
+ 0,blank, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 1,solid wall, 0, 127,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\wall.png
+-1,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 2,weak wall, 0, 120,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\wallWeak.png
+-1, 0,-1, 0, 0, 0, 0,-1, 0, 5,-1, 0, 0, 0, 0, 0, 0, 0, 0
+ 3,grassA, 0, 118,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\grassA.png
+-1,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 4,grassB, 0, 117,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\grassB.png
+-1,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 5,grassC, 0, 116,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\grassC.png
+-1,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 6,water, 0, 119,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\water.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 7,rope, 0, 110,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\rope.png
+ 0,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0, 0
+ 8,lava, 0, 113,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\lava.png
+ 0, 0, 0, 0,-5, 0,-10, 0, 0, 0,-1,-1, 0, 0, 3, 0, 0, 0, 0
+ 9,whip, 0, 112,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\whip.png
+ 0, 0, 0, 0, 0, 1, 1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 10,whip powerup, 0, 102,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\whipPowerup.png
+ 0,-1,-1, 0, 0, 10, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 11,treasure chest, 0, 107,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\treasure.png
+ 0,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 12,transporter, 0, 108,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\transport.png
+ 0, 0, 0, 0, 0, 0, 0,-1, 0, 1,-1, 0, 0, 0, 0, 0, 0, 0, 0
+ 13,switch, 0, 109,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\switch.png
+ 0,-1,-1, 0, 0, 0, 0,-1, 0, 1, 0, 0, 0,-1, 0, 0, 0, 0, 0
+ 14,potion, 0, 111,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\potion.png
+ 0, 0, 0, 0, 0, 0, 0,-1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 15,locked wall, 0, 105,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\lockA.png
+-1,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 16,key, 0, 114,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\key.png
+ 0,-1,-1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 17,hero,-1, 115,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\hero.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 18,goal, 0, 106,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\goal.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 19,gemA, 0, 123,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\gem.png
+ 0, 0, 0, 0, 1, 0, 5,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 20,gemB, 0, 122,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\gemb.png
+ 0, 0, 0, 0, 2, 0, 10,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 21,gemC, 0, 121,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\gemc.png
+ 0, 0, 0, 0, 3, 0, 15,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 22,gemFinal, 0, 103,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\gemFinal.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 23,enemyA,-1, 126,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\enemyA.png
+ 0,-1,-1, 0,-1, 0,-5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 24,enemyB,-1, 125,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\enemyB.png
+ 0,-1,-1, 0,-2, 0,-10, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 25,enemyC,-1, 124,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\enemyC.png
+ 0,-1,-1, 0,-3, 0,-15, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 26,rock,-1, 128,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\boulder.png
+-1,-1,-1,-1, 0, 0, 0,-1, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 27,arrow up, 0, 130,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\arrowUp.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,-1, 0, 0, 0, 0, 0
+ 28,arrow down, 0, 133,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\arrowDown.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,-1, 0, 0, 0, 0, 0
+ 29,arrow left, 0, 132,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\arrowLeft.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,-1, 0, 0, 0, 0, 0
+ 30,arrow right, 0, 131,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\arrowRight.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,-1, 0, 0, 0, 0, 0
+ 31,arrow up active, 0, 130,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 32,arrow down active, 0, 133,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 33,arrow left active, 0, 132,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 34,arrow right active, 0, 131,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 35,arrow up reserve, 0, 0,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 36,arrow down reserve, 0, 0,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 37,arrow left reserve, 0, 0,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 38,arrow right reserve, 0, 0,
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 39,dead, 0, 104,
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 40,playerSick, 0, 145,
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 41,hidden switch, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0,-1,-1, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0,-1, 0, 0, 0, 0, 0
+ 42,blank to boulder, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0,-1
+ 43,blank to enemy a, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 0,-1
+ 44,blank to enemy b, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 0,-1
+ 45,blank to enemy c, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 0,-1
+ 46,dead body, 0, 147,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\heroBody.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 47,warp, 0, 148,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\warp.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0,-1
+ 48,message, 0, 149,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\message.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0,-1
+ 49,fake solid wall, 0, 127,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\fakewall.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 0,-1
+ 50,blank to solid enemy A spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 0, 0
+ 51,blank to solid enemy B spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 0, 0
+ 52,blank to solid enemy C spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 0, 0
+ 53,blank to solid wall, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,-1
+ 54,blank to gemA, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 0,-1
+ 55,blank to gemB, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0,-1
+ 56,blank to gemC, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 0,-1
+ 57,blank to gemA spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 0
+ 58,blank to gemB spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0
+ 59,blank to gemC spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 0, 0
+ 60,backdrop tile, 0, 150,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\backdrop.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 61,lava generate, 0, 113,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\lava.png
+ 0, 0, 0, 0,-5, 0,-10, 0, 0, 0,-1,-1, 0, 0, 0, 8, 0, 0, 0
+ 62,end game trigger, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0,-1,-1, 0, 0, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 63,blank to whip spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0
+ 64,blank to whip, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0,-1
+ 65,water generate, 0, 119,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\water.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0
+ 66,blank to goal, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0,-1
+ 67,fake backdrop tile, 0, 150,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\backdropFake.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0,-1
+ 68,blank to weak wall, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0,-1
+ 69,boulder generate, 0, 127,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\wall.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0,-1
+ 70,blank to key, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0,-1
+ 71,blank to solid wall spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+ 72,blank to lava, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0,-1
+ 73,blank to lava spawn, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0
+ 74, gem a generator, 0, 127,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\wall.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 0,-1
+ 75,goal to warp, 0, 106,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\goal.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0,-1
+ 76,enemy a generator, 0, 127,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\wall.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 0, 0,-1
+ 77,blank to body, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0,-1
+ 78,cake 01, 0, 153,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\cake01.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 79,cake 02, 0, 154,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\cake02.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 80,cake 03, 0, 155,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\cake03.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 81,cake 04, 0, 156,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\cake04.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+ 82,dead body to  to enemy a, 0, 147,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\heroBody.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 0,-1
+ 83,dead body generator, 0, 147,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\heroBody.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0,-1
+ 84,blank to dead body generator, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 147, 0,-1
+ 85,blank no warp, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,-1
+ 86,blank warp w enemy, 0, 129,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\blank.png
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 129, 0,-1
+ 87,weak wall generator, 0, 150,D:\Users\Jeff\Documents\DarkBasic Projects\ascii adventure\sprites\editor\backdrop.png
+-1,-1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 87, 0,-1
+Quicksand
+ 30, 10
+ 0
+ 800
+ 9,-1
+ 9,-1
+ 9,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 9,-1
+ 1,-1
+ 1,-1
+ 1,-1
+ 9,-1
+ 17,-1
+ 9,-1
+ 0,-1
+ 0,-1
+ 9,-1
+ 0,-1
+ 9,-1
+ 1,-1
+ 1,-1
+ 9,-1
+ 1,-1
+ 9,-1
+ 0,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 9,-1
+ 1,-1
+ 1,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 1,-1
+ 0,-1
+ 9,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 1,-1
+ 46,-1
+ 48, 341
+ 1,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 1,-1
+ 1,-1
+ 1,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 9,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 9,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 1, 2
+ 76, 1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 76, 1
+ 1, 2
+ 1, 1
+ 0,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 76, 4
+ 76, 5
+ 0,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 1,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 9,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 1,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 18,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6
+ 87, 6
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 1,-1
+ 87, 6
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 0,-1
+ 87, 6
+ 87, 6

@@ -1,0 +1,175 @@
+textID]text
+0]Continuing onward!...
+1]You can see clearer now
+2]You are visible again
+3]The poison has worn off
+4]You unlocked a door
+5]You moved a boulder
+6]You grabbed a key|Keys are used to unlock doors
+7]The lava, it burns
+8]You activated a switch
+9]You activated a hidden switch
+10]You got a whip|Whips can demolish walls,|kill enemies,|and destroy items
+11]You've been teleported
+12]You found 
+13] small gems
+14] small gem
+15] gems
+16] gem
+17] big gems
+18] big gem
+19] whips
+20]It's a trap!
+21]It's a trap!|You've been blinded
+22]It's a trap!|You've been poisoned
+23]It's a trap!|You've been made invisible
+40]Floor
+41]Life
+42]Key
+43]Whip
+44]Score
+45]  MENU
+46]Press enter to continue
+47]whip	
+48]You found a small gem|It restores 1 health
+49]You found a gem|It restores 2 health
+50]You found a big gem|It restores 3 health
+51]You suddenly feel lighter...
+52]Your whip is now stronger
+53]It's a trap!|The monsters now move faster
+54]Good news!|The monsters now move slower
+55]It's a trap!|The monsters are now stronger
+56]Good news!|The monsters are now weaker
+57]Good news!|You now move faster
+58]Oh no!|You now move slower
+59]Good news!|You are now stronger
+60]Oh no!|You are now weaker
+61] keys
+150] The Caves of Isna
+151] Auto-save file found.
+152] Load and resume gameplay?
+153] CANCEL 
+154] OK 
+155] Start New Game
+156] Continue Game
+157] How to Play
+158] About 
+159] Select Save Game Slot
+160]    (empty)
+161]    Floor 
+162] Continue Game
+163] Save Game
+164] Load Game
+165] Resume Game
+166] Main Menu
+168] Toggle Control Overlay: ON
+167] Toggle Control Overlay: OFF
+169]    *C* Floor 
+170]You died.
+171]The treasure of Isna!|It is yours to keep!|There's an inscription:|Dishwasher and microwave safe|....|..|WHAT!?!?!|It's a fake!?!
+172]             ----
+173]             \  /
+174]              --
+175]          Presented by
+176]          Bukket Games
+177]    www.playbukketgames.com 
+178]            /---\
+179]            |AGK|
+180]            \---/
+181]          Made with
+182]         App Game Kit   
+183]      www.appgamekit.com 
+184] Objective:
+185]   Guide your hero to the goal
+186]   by collecting items and
+187]   gems while avoiding traps
+188]   and enemies.
+189]       
+190] Movement:
+191]   Use the keyboard's 
+192]   arrowkeys, or the keys 
+193]   Q-W-E-A-D-Z-X-C to
+194]   move your character.
+195]   
+196] Whips:
+197]   Press the spacebar key
+198]   on the keyboard to attack
+199]   with the whip. You need
+200]   whips in your inventory 
+201]   to attack.
+202] Whips (cont):
+203]   Whips can only be used
+204]   once. You can find more
+205]   whips while adventuring.
+206]     
+207]
+208] Whips (cont):
+209]   A multi-colored whip
+210]   will permanently 
+211]   strengthen your attacks.
+212]   
+213]   If you see one, grab it!
+214] Gems:
+215]   Increase your health.
+216]   
+217] Items:
+218]   Can either help or hinder.
+219]
+220] Keys:
+221]   Unlock locked doors.
+222]   Always grab a key if you
+223]   see one. You might need to
+224]   save it for later!
+225]
+226] There is much to learn in
+227]   ASCII Adventure. You will
+228]   find more assistance along
+229]   your way.
+230]   
+231]
+232]You cannot travel further!|To continue your adventure|purchase ASCII Adventure|The Caves of Isna!
+233] The Caves of Isna Lite
+300]Got all of your supplies?|The entrance to the caves|is located down south.| |Use the keyboard's arrow pad|or keys Q-W-E-A-D-Z-X-C|to move in eight directions.|  |To pause while exploring,|simply press M
+301]Be careful, there have been|reports of rockslides|in this area...
+302]Lava hurts!|Move the boulders into the|lava to safely pass through
+303]Something is amiss here|Could taking a detour|be worth it?
+304]Whips can break|weakened brown blocks
+305]These work... most of the time
+306]You might need a key.|They break when you use them|so be sure to stockpile
+307]Try to avoid enemies.|They can be useful,|like when they destroy walls.|Your whip can kill them|but your best bet is|TO RUN AWAY
+308]Treasure chests contain|multiple items.|However, they might contain|items that will hinder you
+309]Can you grab they key|on the other side of|the room before the water|destroys everything?
+310]Potions last only for|a little bit of time|or for the duration of|the entire floor
+311]Being poisoned makes|it tough to walk. Good luck!
+312]Somtimes we must make|choices we don't like
+313]There must something|that will help you in here
+314]Some blocks look solid|but really aren't.|The paths that they hide|can lead you on your way...
+315]Warp blocks send you|to different floors.|Where do you go?|You don't know 'til you try it
+316]Don't have enough whips?|You might need to warp|and head elsewhere...
+317]Putting a whip upgrade on|this floor would be bad|game design as you could|keep looping back to get it.|Sorry to disappoint
+318]You got the basics of|ASCII Adventure.|Have fun!
+319]Be careful!|Watch your step!|In some areas, the ground|turns to lava|as soon as you move!
+320]Welcome to your death
+321]Welcome to the Potion Shop|Break it, you buy it|In case of emergency|use the emergency exit
+322]I forgot to label them|but if I recall correctly|they're in order somehow?...
+323]*cough*|*cou*|I might not live much longer|*cough*|But|*cack*|cut........|*cough*|corners......|.......|.....|...
+324]*cack*|I don't get it...|How could someone...|*cough*|be|*cough*|so|*cack*|cruel?|*cough*|......|....|..
+325]Wakka wakka wakka|....|...|..|.
+326]Welcome to the tomb|Enjoy your stay
+327]You shouldn't be alive
+328]Yeah it's worth it.|Did you pack an extra key?
+329]This space for rent.|Inquire within
+330]We're the Cake Sisters!|The relative humidity|here in the caves|is perfect for baking cakes.|Since you're now stuck|would you like a sample?
+331]This is a delicious|vanilla buttercream cake
+332]Celebrate St. Patty's|with an Irish cream cake
+333]This cake is no lie!|It is the best black forest|cake that you'll ever eat!
+334]I wish I knew|what happened|to my pet rooster Pywackit!|I miss hearing|his beautiful crow
+335]Watch your step|Can only move once|Choose carefully
+336]The treasure of Isna!|It is yours to keep!|There's an inscription:|Look far and wide...|There is more to find...|go to the Isles of Isna...
+337]We cool our cakes here!|Please don't touch the product
+338]YOU THIEF!!!|Twelve-dozen cakes?!?|How could you!?!|You will PAY for this|muhahahahaha|MUHAHAHAHA
+339]they're|...|crazy|...|*cough*|..|....|bottom's|..|upward|...|find|*cack*|cakes|*cough*|...|in|.....|prior|....|..|those|green|things|...|pets|...|restrained
+340]Your bravery|shall be rewarded
+341]Be fast!|Don't get stuck!
+342]I was so alone...
+343]The worse it is outside|the better it is in here
